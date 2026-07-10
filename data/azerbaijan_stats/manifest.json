@@ -1,0 +1,282 @@
+[
+  {
+    "group": "demography_xls",
+    "priority": 1,
+    "name": "population_by_age_groups_2020_2025.xls",
+    "url": "https://www.stat.gov.az/source/demoqraphy/en/001_23en.xls",
+    "why": "Primary table for age-band distributions by economic region and administrative territorial unit.",
+    "fields_supported": [
+      "territory",
+      "age_band",
+      "population_count"
+    ],
+    "source_page": "https://www.stat.gov.az/source/demoqraphy/?lang=en",
+    "status": "downloaded",
+    "path": "data\\azerbaijan_stats\\demography_xls\\population_by_age_groups_2020_2025.xls",
+    "size_bytes": 712704,
+    "sha256": "85919155a45bea877cbb171dea66ea14d527d3e7581bb11c7d9b86e5a93d79b9",
+    "content_type": "application/vnd.ms-excel"
+  },
+  {
+    "group": "demography_xls",
+    "priority": 1,
+    "name": "population_by_sex_territory_2025.xls",
+    "url": "https://www.stat.gov.az/source/demoqraphy/en/001_19en.xls",
+    "why": "Resident population by sex, economic regions, administrative territorial units and urban settlements. Core for agent geography + sex.",
+    "fields_supported": [
+      "territory",
+      "sex",
+      "population_count"
+    ],
+    "source_page": "https://www.stat.gov.az/source/demoqraphy/?lang=en",
+    "status": "downloaded",
+    "path": "data\\azerbaijan_stats\\demography_xls\\population_by_sex_territory_2025.xls",
+    "size_bytes": 107520,
+    "sha256": "34ef2d9ff4944787f02e8f3126623b32ebe31bfb1385056760be5fe734cf35f8",
+    "content_type": "application/vnd.ms-excel"
+  },
+  {
+    "group": "labour_xls",
+    "priority": 1,
+    "name": "employees_by_territory.xls",
+    "url": "https://www.stat.gov.az/source/labour/en/009_5en.xls",
+    "why": "Employee counts by territory. Helpful for formal labour market and wage-linked persona generation.",
+    "fields_supported": [
+      "territory",
+      "employee_count"
+    ],
+    "source_page": "https://www.stat.gov.az/source/labour/?lang=en",
+    "status": "downloaded",
+    "path": "data\\azerbaijan_stats\\labour_xls\\employees_by_territory.xls",
+    "size_bytes": 39936,
+    "sha256": "3271bd86fa91d59b788dff3a3f671265d863ed6cafe8b28c77110acc7e011c69",
+    "content_type": "application/vnd.ms-excel"
+  },
+  {
+    "group": "labour_xls",
+    "priority": 1,
+    "name": "employment_by_territory.xls",
+    "url": "https://www.stat.gov.az/source/labour/en/009_2en.xls",
+    "why": "Employment counts by territory. Core for employed vs not-employed distributions.",
+    "fields_supported": [
+      "territory",
+      "employment_count"
+    ],
+    "source_page": "https://www.stat.gov.az/source/labour/?lang=en",
+    "status": "downloaded",
+    "path": "data\\azerbaijan_stats\\labour_xls\\employment_by_territory.xls",
+    "size_bytes": 226304,
+    "sha256": "e6c51cf171f88d86ff4d562c6a22bd627d2592da40f5df7db674e10dbb9d25ac",
+    "content_type": "application/vnd.ms-excel"
+  },
+  {
+    "group": "labour_xls",
+    "priority": 1,
+    "name": "labour_force_by_territory.xls",
+    "url": "https://www.stat.gov.az/source/labour/en/009_1en.xls",
+    "why": "Labour force by economic region and administrative territorial unit.",
+    "fields_supported": [
+      "territory",
+      "labour_force"
+    ],
+    "source_page": "https://www.stat.gov.az/source/labour/?lang=en",
+    "status": "downloaded",
+    "path": "data\\azerbaijan_stats\\labour_xls\\labour_force_by_territory.xls",
+    "size_bytes": 46080,
+    "sha256": "d2a163fd205ef2fd98ec98d903c90c75db3354f8043ac4a89684f831d6613b2a",
+    "content_type": "application/vnd.ms-excel"
+  },
+  {
+    "group": "labour_xls",
+    "priority": 1,
+    "name": "unemployment_by_territory.xls",
+    "url": "https://www.stat.gov.az/source/labour/en/009_3-4en.xls",
+    "why": "Unemployed persons and unemployment rate by territory.",
+    "fields_supported": [
+      "territory",
+      "unemployed_count",
+      "unemployment_rate"
+    ],
+    "source_page": "https://www.stat.gov.az/source/labour/?lang=en",
+    "status": "downloaded",
+    "path": "data\\azerbaijan_stats\\labour_xls\\unemployment_by_territory.xls",
+    "size_bytes": 62464,
+    "sha256": "8c49ce6adc5f388461fc34d03387f6e22f20beaef26d4ca27ea9e49301d66771",
+    "content_type": "application/vnd.ms-excel"
+  },
+  {
+    "group": "labour_xls",
+    "priority": 1,
+    "name": "wages_by_territory.xls",
+    "url": "https://www.stat.gov.az/source/labour/en/009_6en.xls",
+    "why": "Average nominal wages by territory. Best open proxy for income bands.",
+    "fields_supported": [
+      "territory",
+      "avg_wage"
+    ],
+    "source_page": "https://www.stat.gov.az/source/labour/?lang=en",
+    "status": "downloaded",
+    "path": "data\\azerbaijan_stats\\labour_xls\\wages_by_territory.xls",
+    "size_bytes": 42496,
+    "sha256": "c47e45733dc1b9c3d6ebea20a0af2465f377b4e196fe9982c95096b9f1f4c530",
+    "content_type": "application/vnd.ms-excel"
+  },
+  {
+    "group": "yearbook_pdf",
+    "priority": 1,
+    "name": "regions_of_azerbaijan_2025.pdf",
+    "url": "https://www.stat.gov.az/menu/6/statistical_yearbooks/source/regions_2025.pdf",
+    "why": "Cross-domain regional yearbook with demographic, social, economic and environmental indicators for cities and districts.",
+    "fields_supported": [
+      "regional_context",
+      "city_district_context",
+      "cross_domain_indicators"
+    ],
+    "source_page": "https://www.stat.gov.az/news/index.php?id=6553&lang=en",
+    "status": "downloaded",
+    "path": "data\\azerbaijan_stats\\yearbook_pdf\\regions_of_azerbaijan_2025.pdf",
+    "size_bytes": 438675255,
+    "sha256": "f1f78c9f738ebc2a6aaa2742f550a77204e93d4738fbfbaf29b6f7aff371c24e",
+    "content_type": "application/pdf"
+  },
+  {
+    "group": "yearbook_pdf",
+    "priority": 1,
+    "name": "results_of_household_survey_2025.pdf",
+    "url": "https://www.stat.gov.az/menu/6/statistical_yearbooks/source/evtes_2025.pdf",
+    "why": "Income and expenditure of households by sociodemographic groups, urban/rural, and economic regions.",
+    "fields_supported": [
+      "household_income",
+      "household_expenditure",
+      "sociodemographic_group"
+    ],
+    "source_page": "https://www.stat.gov.az/news/index.php?id=6400&lang=en",
+    "status": "downloaded",
+    "path": "data\\azerbaijan_stats\\yearbook_pdf\\results_of_household_survey_2025.pdf",
+    "size_bytes": 4089746,
+    "sha256": "8d7f6192375268f56895be33eb458003b8240ca07bab27dd4178a560e5b4e746",
+    "content_type": "application/pdf"
+  },
+  {
+    "group": "demography_xls",
+    "priority": 2,
+    "name": "household_distribution_members_children_2024.xls",
+    "url": "https://www.stat.gov.az/source/demoqraphy/en/006_7-8en.xls",
+    "why": "Supports household type generation: family size, children presence, household composition.",
+    "fields_supported": [
+      "household_size",
+      "children_count",
+      "distribution"
+    ],
+    "source_page": "https://www.stat.gov.az/source/demoqraphy/?lang=en",
+    "status": "downloaded",
+    "path": "data\\azerbaijan_stats\\demography_xls\\household_distribution_members_children_2024.xls",
+    "size_bytes": 36352,
+    "sha256": "e63bb6fed9ca7338b7b4d031bce80d0c2f098830e17bd14269f73ab0b5d06cbe",
+    "content_type": "application/vnd.ms-excel"
+  },
+  {
+    "group": "demography_xls",
+    "priority": 2,
+    "name": "population_age_14_29_by_territory_2025.xls",
+    "url": "https://www.stat.gov.az/source/demoqraphy/en/001_21en.xls",
+    "why": "Useful for younger digital-first cohorts and promo responsiveness segmentation.",
+    "fields_supported": [
+      "territory",
+      "age_band_14_29",
+      "population_count"
+    ],
+    "source_page": "https://www.stat.gov.az/source/demoqraphy/?lang=en",
+    "status": "downloaded",
+    "path": "data\\azerbaijan_stats\\demography_xls\\population_age_14_29_by_territory_2025.xls",
+    "size_bytes": 42496,
+    "sha256": "d7dd3aaa56009790df545fb1c57a9dc5b7a1a04b0bf9dcab7e4b861a8c133b2e",
+    "content_type": "application/vnd.ms-excel"
+  },
+  {
+    "group": "labour_xls",
+    "priority": 2,
+    "name": "employment_by_activity_2025.xls",
+    "url": "https://www.stat.gov.az/source/labour/en/008_2en.xls",
+    "why": "Distribution of employees by economic activity. Needed to assign sectors like trade, services, industry.",
+    "fields_supported": [
+      "economic_activity",
+      "employee_distribution"
+    ],
+    "source_page": "https://www.stat.gov.az/source/labour/?lang=en",
+    "status": "downloaded",
+    "path": "data\\azerbaijan_stats\\labour_xls\\employment_by_activity_2025.xls",
+    "size_bytes": 37376,
+    "sha256": "19ed5a19dca4b8bb487a05262a34c12af5df964ef2566ecd9212a62573b0e0fd",
+    "content_type": "application/vnd.ms-excel"
+  },
+  {
+    "group": "yearbook_pdf",
+    "priority": 2,
+    "name": "demographic_indicators_2025.pdf",
+    "url": "https://www.stat.gov.az/menu/6/statistical_yearbooks/source/demo_2025.pdf",
+    "why": "Full demography yearbook as a backup / richer source if the XLS tables are insufficient.",
+    "fields_supported": [
+      "demography_backup"
+    ],
+    "source_page": "https://www.stat.gov.az/menu/6/statistical_yearbooks/?lang=en",
+    "status": "downloaded",
+    "path": "data\\azerbaijan_stats\\yearbook_pdf\\demographic_indicators_2025.pdf",
+    "size_bytes": 82085,
+    "sha256": "94735935bffccdbc0f0f5e45a5c7224418f9f863a16fca5dfe726f68e3f86b0e",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "group": "yearbook_pdf",
+    "priority": 2,
+    "name": "digital_development_2025.pdf",
+    "url": "https://www.stat.gov.az/menu/6/statistical_yearbooks/source/digital_development_2025.pdf",
+    "why": "Useful for internet access, digital skills, device access, and online-behaviour priors.",
+    "fields_supported": [
+      "internet_access",
+      "digital_skills",
+      "device_usage",
+      "online_purchases"
+    ],
+    "source_page": "https://www.stat.gov.az/menu/6/statistical_yearbooks/?lang=en",
+    "status": "downloaded",
+    "path": "data\\azerbaijan_stats\\yearbook_pdf\\digital_development_2025.pdf",
+    "size_bytes": 8042049,
+    "sha256": "583aeb4d4b309c83efc794e1b2bfeb926e1a4986ee83a4907b32c1209eef8616",
+    "content_type": "application/pdf"
+  },
+  {
+    "group": "yearbook_pdf",
+    "priority": 2,
+    "name": "labour_market_2025.pdf",
+    "url": "https://www.stat.gov.az/menu/6/statistical_yearbooks/source/labour_2025.pdf",
+    "why": "Full labour-market yearbook as a backup / richer source beyond XLS tables.",
+    "fields_supported": [
+      "labour_backup"
+    ],
+    "source_page": "https://www.stat.gov.az/menu/6/statistical_yearbooks/?lang=en",
+    "status": "downloaded",
+    "path": "data\\azerbaijan_stats\\yearbook_pdf\\labour_market_2025.pdf",
+    "size_bytes": 82085,
+    "sha256": "94735935bffccdbc0f0f5e45a5c7224418f9f863a16fca5dfe726f68e3f86b0e",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "group": "yearbook_pdf",
+    "priority": 2,
+    "name": "women_and_men_2025.pdf",
+    "url": "https://www.stat.gov.az/menu/6/statistical_yearbooks/source/WM_2025.pdf",
+    "why": "Adds gender-sensitive demographic and labour context.",
+    "fields_supported": [
+      "gender_context",
+      "sex_split",
+      "gender_labour_context"
+    ],
+    "source_page": "https://www.stat.gov.az/menu/6/statistical_yearbooks/?lang=en",
+    "status": "downloaded",
+    "path": "data\\azerbaijan_stats\\yearbook_pdf\\women_and_men_2025.pdf",
+    "size_bytes": 115021448,
+    "sha256": "e9012757189e8b5a25788894baadcd6de9874fe8d904540289ee2a1b40fddcca",
+    "content_type": "application/pdf"
+  }
+]

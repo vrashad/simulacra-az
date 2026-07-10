@@ -1,0 +1,1114 @@
+
+<!DOCTYPE html>
+<html lang="az">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="theme-color" content="#688897">
+	<meta name="robots" content="index, follow"/>
+	<meta name="googlebot" content="index, follow">
+	<meta name="googlebot" content="index, archive">
+	<meta name="googlebot" content="all">
+	<meta name="yahoobot" content="index,follow">
+	<meta name="alexabot" content="index,follow">
+	<meta name="msnbot" content="index,follow">
+	<meta name="dmozbot" content="index,follow">
+	<meta name="revisit-after" content="1 days">
+	<meta name="author" content="Anar Samadov (www.anarsamadov.net)">
+				<title>Azərbaycan Respublikasının Dövlət Statistika Komitəsi</title>
+	<meta property="fb:app_id" content="741929505943965">
+	<meta name="description"  content="Azərbaycan Respublikasının Dövlət Statistika Komitəsinin rəsmi internet səhifəsi">
+	<meta name="keywords"  content="Azərbaycan Respublikasının Dövlət Statistika Komitəsi, DSK, dsk, Dövlət Statistika Komitəsi, Statistika, statistika, Komitə, Stat, stat, azstat, gov.az, gov, az, məlumat, gostericiler, Statistik dəyər, dəyər, göstəricilər,  sistemi, göstəricilər sistemi">
+	<!--<meta property="og:title" content="Azərbaycan Respublikasının Dövlət Statistika Komitəsi">-->
+	<meta property="og:url" content="">
+	<meta property="og:image" content="//www.stat.gov.az/images/default.jpg">
+	<meta property="og:site_name" content="Azərbaycan Respublikasının Dövlət Statistika Komitəsi">
+	<meta property="og:description" content="Azərbaycan Respublikasının Dövlət Statistika Komitəsinin rəsmi internet səhifəsi">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:domain" content="www.stat.gov.az">
+	<meta name="twitter:title" content="Azərbaycan Respublikasının Dövlət Statistika Komitəsi">
+	<meta name="twitter:description" content="Azərbaycan Respublikasının Dövlət Statistika Komitəsinin rəsmi internet səhifəsi">
+	<meta name="twitter:image" content="//www.stat.gov.az/images/default.jpg">
+	<meta itemprop="image" content="//www.stat.gov.az/images/default.jpg">
+	<link href="/css/font-awesome.css" rel="stylesheet">
+	<!--<link href="/css/brands.min.css" rel="stylesheet">-->
+	<!--<link href="/css/brands.css" rel="stylesheet">-->
+	<link href="/css/owl/owl.carousel.min.css" rel="stylesheet">
+	<link href="/css/owl/owl.theme.default.min.css" rel="stylesheet">
+	<link href="/css/jquery.fancybox.min.css" rel="stylesheet">
+	<link href="/css/style.css" rel="stylesheet">
+	<link href="/css/font-glyphicons.css" rel="stylesheet">
+	<link href="/css/menu.css" rel="stylesheet">
+
+	<link href="/css/fixed.css" rel="stylesheet">
+	<link href="/css/animate.css" rel="stylesheet">
+	<link href="/css/floating-wpp.min.css" rel="stylesheet">
+		<link href="/css/custom.css" rel="stylesheet">
+	<script src="/js/jquery.min.js"></script>
+<!--	<script src="/js/jquery-3.3.1.min.js"></script>-->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+	<!--[if lt IE 8]>
+<br>
+	<div class="container">
+		<div class="col-lg-12">
+			<div class="text-center alert alert-danger">
+			<center><h3>Outdated Browser</h3>
+			For a better experience, keep your browser up to date. Click <a href="//outdatedbrowser.com/en" target="_blank"><strong>here</strong></a> for latest versions.
+			<hr>
+			<h4>İnternet bələdçinizin versiyası köhnədir.</h4>
+			İnternet bələdçinizi yeniləmək üçün <a href="//outdatedbrowser.com/en" target="_blank"><strong>buraya</strong></a> klikləyin.
+			</center>
+			</div>
+		</div>
+	</div>
+	<![endif]-->
+	<!--<script src="https://cdn.userway.org/widget.js" data-account="WtMRtG2B00"></script>-->
+</head>
+
+<body> <!-- onload="startDate();"> -->
+
+<div class="general_wrapper">
+	<div class="container">
+
+		<section class="top-bar" style="font-size:16px;">
+			<div class="pull-left">
+				<!-- <a href="/" data-toggle="tooltip" data-placement="bottom" title="Əsas səhifə"><img src="/images/home.png" alt="home"></a>
+				<a href="xidmetler/muraciet_v2.0/index.php?act=1&lang=az" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Məktub yaz"><img src="/images/envelope.png" alt="envelope"></a>
+				<a href="//source/site_map" data-toggle="tooltip" data-placement="bottom" title="Saytın xəritəsi"><img src="/images/sitemap.png" alt="sitemap"></a>-->
+
+				<a href="/" title="Əsas səhifə" data-toggle="tooltip" data-placement="bottom"> <span class="fa fa-home"></span></a>
+				<a href="//www.azstat.gov.az/xidmetler/muraciet_v2.0/index.php?act=1&lang=az" title="Məktub yaz" data-toggle="tooltip" data-placement="bottom" target="_blank"><span class="fa fa-envelope"></span></a>
+				<a href="/source/site_map" title="Saytın xəritəsi" data-toggle="tooltip" data-placement="bottom"><span class="fa fa-sitemap"></span></a>
+				<!--<a href="/special_version/?lang=" title="Görmə qüsurlu şəxslər üçün" data-toggle="tooltip" data-placement="bottom"
+					target="_blank"> <span class="fa fa-eye fa-lg"></span></a> --><!--class "glyphicon glyphicon-sunglasses", "fa fa-eye fa-lg", "glyphicon glyphicon-eye-open" -->
+
+				<a href="https://www.facebook.com/statestatkom/" title="facebook" target="_blank"
+						data-toggle="tooltip" data-placement="bottom"><span class="fa fa-facebook"></span></a> <!--class="fa fa-facebook-square"-->
+
+				<a href="https://www.youtube.com/channel/UCueWW6bU8il1JJqsds7qf-Q/videos?view=0&sort=dd&shelf_id=1/" title="youtube" target="_blank"
+						data-toggle="tooltip" data-placement="bottom"><span class="fa fa-youtube"></span></a> <!--class="fa fa-youtube-play"-->
+
+                <a href="https://twitter.com/statestatkom/" title="x-twitter" target="_blank" data-toggle="tooltip" data-placement="bottom">
+						<img src="/fonts/x-twitter_w.svg" alt="X-twitter"></a>
+						<!--<span class="fa fa-twitter"></span></a>--> <!--class="fa fa-twitter-square"-->
+
+				<a href="https://www.instagram.com/statestatkom/" title="instagram" target="_blank" data-toggle="tooltip" data-placement="bottom">
+				   <span class="fa fa-instagram"></span></a> <!--class="fab fa-instagram"-->
+			</div>
+
+			<div class="pull-right">
+				<a href="/lang.php?lang=az" title="Azərbaycan" data-toggle="tooltip" data-placement="bottom">AZ</a> &nbsp;&nbsp;
+				<a href="/lang.php?lang=en" title="English"    data-toggle="tooltip" data-placement="bottom">EN</a>
+			</div>
+
+			<div class="clearfix"></div>
+		</section><!--top-bar-->
+
+		<header>
+			<div class="row header">
+				<div class="col-sm-12 col-xs-12">
+					<a href="/"><img src="/images/topbanner_az.png" class="img-responsive" style="margin:0 auto;" alt="logo"></a>
+				</div>
+			</div>
+		</header>
+
+		<section class="menu">
+						
+<nav class="mash-menu" data-color="blue-grey">
+	<section class="mash-menu-inner-container">
+		<!-- brand -->
+		<ul class="mash-brand">
+			<li>
+				<button class="mash-mobile-button"><span></span></button>
+			</li>
+		</ul>
+		<!-- list items -->
+		<!--<ul class="mash-list-items" style="display: flex !important; align-items: flex-start; justify-content: center;">-->
+		<ul class="mash-list-items">
+			<!-- active -->
+			<li><a href="//www.stat.gov.az/?lang=az"> <i class="fa fa-home"></i> Baş səhifə</a></li>
+			<li><a href="//www.stat.gov.az/menu/2/">Haqqımızda <i class="fa fa-caret-down fa-indicator"></i></a>
+				<div class="drop-down-large">
+					<div class="container-fluid">
+						<div class="row">
+							<div class="col-sm-4">
+								<ul class="list-items space-0">
+									<li><a href="//www.stat.gov.az/menu/2/structure/">Dövlət Statistika Komitəsinin strukturu və rəhbər heyəti</a></li>
+									<li><a href="//www.stat.gov.az/menu/2/ssc_board/">Dövlət Statistika Komitəsinin kollegiyası</a></li>
+									<li><a href="//www.stat.gov.az/menu/2/regulations/stat_req.pdf" target="_blank">Dövlət Statistika Komitəsinin Reqlamenti</a></li>
+									<li><a href="//www.stat.gov.az/menu/2/work_program/">Statistik işlər proqramı</a></li>
+									<li><a href="//www.stat.gov.az/menu/2/statistic_council/">Statistika şurası</a></li>
+									<li><a href="//www.stat.gov.az/menu/2/appeals/">Apellyasiya Şurası</a></li>
+									<li><a href="//www.stat.gov.az/menu/2/personnel_p/">Kadr siyasəti</a></li>
+									<li><a href="//www.stat.gov.az/menu/2/bmt_principles/BMTprinciples.pdf" target="_blank">Rəsmi statistikanın əsas prinsipləri</a></li>
+									<li class="clearfix"></li>
+								</ul>
+							</div>
+							<div class="col-sm-4">
+								<ul class="list-items space-0">
+									<li><a href="//www.stat.gov.az/menu/2/reports/">Fəaliyyətlə bağlı illik hesabatlar</a></li>
+									<li><a href="//www.stat.gov.az/menu/2/eurostat/EuroStatCode.pdf" target="_blank">Avropa statistikasının normalar məcəlləsi</a></li>
+									<li><a href="//www.stat.gov.az/menu/2/itm/">Açıq Hökumətin təşviqinə dair Milli Fəaliyyət Planının icrası  ilə bağlı məlumatlar</a></li>
+									<li><a href="//www.stat.gov.az/menu/2/corruption/">Korrupsiyaya qarşı mübarizənin gücləndirilməsinə dair Milli Fəaliyyət Planına dair məlumatlar</a></li>
+									<!--<li><a href="//www.stat.gov.az/menu/2/strategy/Statistic_strategy.pdf" target="_blank">Dövlət Statistika Komitəsinin 2024-2026-cı illər üzrə kommunikasiya strategiyası</a></li>-->
+									<li><a href="//www.stat.gov.az/menu/2/strategy/administrative_strategy_plan.pdf" target="_blank">İnzibati məlumatlardan uzunmüddətli istifadə üzrə strategiya</a></li>
+									<li><a href="//www.stat.gov.az/menu/2/academic_council/">Elmi-metodoloji şura</a></li>
+									<li class="clearfix"></li>
+								</ul>
+							</div>
+							<div class="col-sm-4">
+								<ul class="list-items space-0">
+									<li><a href="//www.stat.gov.az/menu/2/international_coop/">Beynəlxalq əməkdaşlıq</a></li>
+									<li><a href="//www.stat.gov.az/menu/15/">Ümumdünya Statistika Günü</a></li>
+									<li><a href="//www.stat.gov.az/menu/2/quality/">Keyfiyyətin idarə olunması</a></li>
+									<!--<li><a href="//www.stat.gov.az/menu/2/history/">Rəsmi statistikanın tarixi</a></li> -->
+									<li><a href="//www.stat.gov.az/menu/2/freedom_info/freedom_info.pdf" target="_blank">Dövlət Statistika Komitəsində İnformasiya azadlığı ilə bağlı daxili icraat Qaydaları</a></li>
+									<li><a href="//www.stat.gov.az/menu/2/i_x/">İnzibati xətalar haqqında işlərə baxmağa səlahiyyəti olan vəzifəli şəxslərin siyahısı</a></li>
+									<li><a href="//www.stat.gov.az/menu/2/maliyye/">Maliyyə hesabatları</a></li>
+									<li><a href="//www.stat.gov.az/menu/2/procurement/">Dövlət satınalmaları</a></li>
+									<!--<li><a href="//www.stat.gov.az/menu/2/reports/SPFSIAR.pdf" target="_blank">Meta - İnformasiya Sisteminin qurulması layihəsinin TF14110 Audit Hesabatı</a></li>-->
+									<li class="clearfix"></li>
+								</ul>
+							</div>
+							<span class="clearfix"></span>
+						</div>
+					</div>
+				</div>
+			</li>
+			<li><a href="//www.stat.gov.az/menu/3/">Qanunvericilik <i class="fa fa-caret-down fa-indicator"></i> </a>
+				<div class="drop-down-large">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-sm-4">
+							<ul class="list-items space-0">
+								<li><a href="http://e-qanun.az/framework/897" target="_blank"> Azərbaycan Respublikasının Konstitusiyası</a></li>
+								<li><a href="http://e-qanun.az/framework/8882" target="_blank"> "Rəsmi statistika haqqında" Qanun</a></li>
+
+								<li><a href="http://e-qanun.az/framework/17921" target="_blank"> Dövlət Statistika Komitəsi haqqında Əsasnamə</a></li>
+								<li><a href="//www.stat.gov.az/menu/3/Legislation/statute_d_az.pdf" target="_blank"> Azərbaycan Respublikası Dövlət Statistika Komitəsinin rayon (şəhər) statistika idarəsi haqqında Əsasnamə </a></li>
+								<li><a href="//www.stat.gov.az/menu/3/Legislation/"> Azərbaycan Respublikası Dövlət Statistika Komitəsinin qərarları </a></li>
+							</ul>
+						</div>
+						<div class="col-sm-4">
+							<ul class="list-items space-0">
+								<!-- muveggeti yigisdirilsin <li><a href="//www.stat.gov.az/menu/3/Legislation/Normativ_Az.pdf" target="_blank"> Rəsmi statistika sahəsində normativ hüquqi aktlar, müxtəlif qanunlar və fərmanlardan çıxarışlar</a></li> -->
+								<li><a href="http://e-qanun.az/framework/4481" target="_blank"> "Dövlət qulluğu haqqında" Qanun</a></li>
+								<li><a href="https://e-qanun.az/framework/1865" target="_blank"> "Azərbaycan Respublikasında dövlət dili haqqında" Qanun</a></li>
+								<li><a href="https://e-qanun.az/framework/6198 " target="_blank"> "Azərbaycan Respublikası Dövlət bayrağının istifadəsi qaydaları haqqında" Qanun</a></li>
+								<li><a href="https://e-qanun.az/framework/41948" target="_blank"> "Azərbaycan Respublikasının Dövlət Gerbindən istifadə qaydaları haqqında" Qanun</a></li>
+								<li><a href="https://e-qanun.az/framework/41961" target="_blank"> "Azərbaycan Respublikasının Dövlət Himnindən istifadə qaydaları haqqında" Qanun</a></li>
+								<!--<li><a href="//www.stat.gov.az/menu/3/Legislation/az_symbols.pdf" target="_blank"> Azərbaycan Respublikasının Dövlət rəmzləri</a></li>-->
+								<!--<li><a href="http://e-qanun.az/framework/31281" target="_blank"> "Vətəndaşların müraciətləri haqqında" Qanun</a></li>-->
+							</ul>
+						</div>
+						<div class="col-sm-4">
+							<ul class="list-items space-0">
+							    <li><a href="http://e-qanun.az/framework/31281" target="_blank"> "Vətəndaşların müraciətləri haqqında" Qanun</a></li>
+								<li><a href="http://e-qanun.az/framework/13685" target="_blank"> "Dövlət qulluqçularının etik davranış qaydaları haqqında" Qanun</a></li>
+								<li><a href="https://www.e-qanun.az/framework/5809" target="_blank"> "Korrupsiyaya qarşı mübarizə haqqında" Qanun</a></li>
+								<li><a href="https://e-qanun.az/framework/11142" target="_blank"> "İnformasiya əldə etmək haqqında" Qanun</a></li>
+								<li><a href="https://e-qanun.az/framework/19675" target="_blank"> "Fərdi məlumatlar haqqında" Qanun</a></li>
+								<li><a href="//www.stat.gov.az/menu/3/drafts/" target="_blank"> Müzakirə üçün layihələr</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				</div>
+			</li>
+			<li><a href="//www.stat.gov.az/menu/4/"> E-xidmətlər <i class="fa fa-caret-down fa-indicator"></i></a>
+			<!--<li onclick="alert('Aparılan texniki işlərlə əlaqədar 27.01.2024-cü il tarixdə Dövlət Statistika Komitəsinin bir sıra informasiya sistemlərinə daxil olmaq mümkün olmayacaqdır. Nəzərə almağınızı xahiş edirik.'); return false;"><a href="//www.stat.gov.az/menu/4/"> E-xidmətlər <i class="fa fa-caret-down fa-indicator"></i></a>-->
+				<div class="drop-down-large">
+					<div class="container-fluid">
+						<div class="row">
+							<div class="col-sm-4">
+								<ul class="list-items space-0">
+								<li><a href="//www.stat.gov.az/menu/4/e-reports/"><b> Rəsmi statistik hesabatların təqdim edilməsi </b></a></li>
+								<li><a href="//www.stat.gov.az/menu/4/hesabat_video_telimat.php" target="_blank"> Rəsmi statistik hesabatların təqdim edilməsinə dair video təlimat&nbsp;&nbsp;<i class="fa fa-play-circle-o fa-lg"></i></a></li>
+								<!-- <li><a href="https://www.dxr.az/xidmetler/dovlet-qurumu/1776?pageName=Az%C9%99rbaycan%20Respublikas%C4%B1n%C4%B1n%20D%C3%B6vl%C9%99t%20Statistika%20Komit%C9%99si" target="_blank">Dövlət xidmətləri </a></li>-->
+								 <li><a href="https://www.dxr.az/xidmetler/dovlet-qurumu/1776?lang=az&pageName=Az%C9%99rbaycan%20Respublikas%C4%B1n%C4%B1n%20D%C3%B6vl%C9%99t%20Statistika%20Komit%C9%99si&isG2b=false" target="_blank">Dövlət xidmətləri </a></li>
+																 <li><a href="//www.stat.gov.az/menu/4/publications/" target="_blank"> Statistik məlumatların buraxılış təqviminin və mətbu məlumatların yayım təqviminin təqdim edilməsi</a></li>
+								 <!--<li><a href="//www.stat.gov.az/menu/4/yayim_video_telimat.php" target="_blank"> Statistik məlumatların buraxılış təqviminin və mətbu məlumatların yayım təqviminin təqdim edilməsinə dair video təlimat&nbsp;&nbsp;<i class="fa fa-play-circle-o fa-lg"></i></a></li>-->
+								</ul>
+							</div>
+							<div class="col-sm-4">
+								<ul class="list-items space-0">
+								<li><a href="//www.stat.gov.az/menu/4/yayim_video_telimat.php" target="_blank"> Statistik məlumatların buraxılış təqviminin və mətbu məlumatların yayım təqviminin təqdim edilməsinə dair video təlimat&nbsp;&nbsp;<i class="fa fa-play-circle-o fa-lg"></i></a></li>
+									<li><a href="//www.azstat.gov.az/xidmetler/neshrler_v3.0/index.php?lang=az" target="_blank"> Statistik nəşrlərin (kitabların) onlayn satışı</a></li>
+									<li><a href="//www.azstat.gov.az/xidmetler/st_melumat/index.php?lang=az" target="_blank">Statistik məlumatların (göstəricilərin) verilməsi</a></li>
+									<li><a href="//www.stat.gov.az/menu/4/st_melumat_video_telimat.php" target="_blank"> Statistik məlumatların (göstəricilərin) verilməsinə dair video təlimat&nbsp;&nbsp;<i class="fa fa-play-circle-o fa-lg"></i></a></li>
+									<li><a href="//www.azstat.gov.az/xidmetler/cerimeler_v1.0/cerime-search.php?lang=az" target="_blank"> Statistik məlumatların verilməsi qaydalarının pozulmasına görə inzibati cərimələrin internet vasitəsilə ödənilməsi</a></li>
+									<!--<li><a href="//www.stat.gov.az/menu/4/Cərimə_video_telimat.php" target="_blank"> Statistik məlumatların verilməsi qaydalarının pozulmasına görə inzibati cərimələrin internet vasitəsilə ödənilməsinə dair video təlimat&nbsp;&nbsp;<i class="fa fa-play-circle-o fa-lg"></i></a></li>-->
+									<!--<li><a class="list-group-item" href="https://asanpay.az/payments/penalty/100107813?inFrame=true&orgIsNotClosable=true&idtIsNotClosable=true" target="_blank"> Statistik məlumatların verilməsi qaydalarının pozulmasına görə inzibati cərimələrin internet vasitəsilə ödənilməsi</a></li>-->
+								</ul>
+							</div>
+							<div class="col-sm-4">
+								<ul class="list-items space-0">
+									<li><a href="//www.stat.gov.az/menu/4/Cərimə_video_telimat.php" target="_blank"> Statistik məlumatların verilməsi qaydalarının pozulmasına görə inzibati cərimələrin internet vasitəsilə ödənilməsinə dair video təlimat&nbsp;&nbsp;<i class="fa fa-play-circle-o fa-lg"></i></a></li>
+									<!--<li><a href="//www.azstat.gov.az/xidmetler/neshrler_v3.0/index.php?lang=az" target="_blank"> Statistik nəşrlərin (kitabların) onlayn satışı</a></li>-->
+<!--									<li><a href="//www.azstat.gov.az/meyar/" target="_blank"> Sahibkarlıq subyektinə ölçüsünə görə aid olduğu kateqoriyaya dair elektron arayışın verilməsi </a></li>
+									<li><a href="//www.stat.gov.az/menu/4/st_meyar_video_telimat.php" target="_blank"> Sahibkarlıq subyektinə ölçüsünə görə aid olduğu kateqoriyaya dair elektron arayışın verilməsi haqqında video təlimat&nbsp;&nbsp;<i class="fa fa-play-circle-o fa-lg"></i> </a></li>
+-->									<li><a href="//www.stat.gov.az/template/az/bildirish_meyar.php"> Sahibkarlıq subyektinə ölçüsünə görə aid olduğu kateqoriyaya dair elektron arayışın verilməsi </a></li>
+									<!--<li><a href="//www.stat.gov.az/template/az/bildirish_meyar.php"> Sahibkarlıq subyektinə ölçüsünə görə aid olduğu kateqoriyaya dair elektron arayışın verilməsi haqqında video təlimat&nbsp;&nbsp;<i class="fa fa-play-circle-o fa-lg"></i> </a></li>-->
+									<!--<li><a href="//www.e-qanun.az/framework/24866" target="_blank"> Elektron xidmətlər üzrə inzibati reqlamentlər </a></li> -->
+                                     <li><a href="//www.stat.gov.az/menu/4/i_req/i_req.pdf" target="_blank"> Elektron xidmətlər üzrə inzibati reqlamentlər </a></li>
+									<li><a href="//www.azstat.gov.az/memnun2022/?lang=az" target="_blank"> İstifadəçi məmnunluğu sorğusu</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<li><a href="//www.stat.gov.az/menu/5/">Təsnifatlar <i class="fa fa-caret-down fa-indicator"></i></a>
+				<ul class="drop-down">
+					<li><a href="//www.azstat.gov.az/tesnifat/" target="_blank">Elektron təsnifat sistemi</a></li>
+					<li><a href="//www.stat.gov.az/menu/5/classifications/" target="_blank">Təsnifatların e-versiyaları</a></li>
+				</ul>
+			</li>
+			<li><a href="//www.stat.gov.az/menu/6/">Statistik nəşrlər <i class="fa fa-caret-down fa-indicator"></i></a>
+				<div class="drop-down-large">
+					<div class="container-fluid">
+						<div class="row">
+							<div class="col-sm-3">
+							<!--	<h4 style="margin-top:1px;margin-bottom:5px;">Bülletenlər və bukletlər</h4>-->
+								<ul class="list-items space-0">
+									<!--<li><a href="//www.stat.gov.az/menu/6/buklet/bunlari_bilmek_maraqlidir_azstat.pdf" target="_blank"> Bunları bilmək maraqlıdır</a></li> -->
+								<!--	<li><a href="//www.stat.gov.az/menu/6/buklet/azerbaycan_faktlar_ve_reqemler_2023.pdf" target="_blank">Azərbaycan - faktlar və rəqəmlər</a></li>-->
+									<!--<li><a href="//www.stat.gov.az/menu/6/buklet/statistika_nedir.pdf" target="_blank">Statistika nədir?</a></li> -->
+								<!--	<li><a href="//www.stat.gov.az/menu/6/buklet/infoqrafika_2022.pdf" target="_blank">Statistik infoqrafika</a></li> -->
+									<li><a href="//www.stat.gov.az/menu/6/statistical_yearbooks/"><b> Nəşrlərin e-versiyaları</b></a></li>
+									<li><a href="//www.stat.gov.az/menu/6/calendar_y/"> Məcmuələrin buraxılış təqvimi</a></li>
+									<li><a href="//www.stat.gov.az/menu/6/catalogue_st_p/KATALOQ-2026.pdf" target="_blank"> Statistik nəşrlərin kataloqu</a></li>
+
+									<!--<li><a href="//www.stat.gov.az/menu/6/info/Bildirish.pdf" target="_blank">Bildiriş</a></li>-->
+									<li><a href="//www.stat.gov.az/menu/6/opendata/">Açıq məlumatlar</a></li>
+								</ul>
+							</div>
+							<div class="col-sm-5">
+								<ul class="list-items space-0">
+									<li><a href="//www.stat.gov.az/menu/6/dissemination_policy/DissPolicy_az_2014.pdf" target="_blank"> Rəsmi statistik məlumatların yayılması sahəsində siyasət</a></li>
+									<li><a href="//www.stat.gov.az/menu/6/SSC_rules/SSC_rules.pdf" target="_blank"> İstifadəçilər tərəfindən statistik məlumatların düzgün şərh edilməməsi halları baş verdikdə Komitənin hərəkətlərini tənzimləyən qaydalar</a></li>
+									<!--<li><a href="//www.stat.gov.az/menu/6/SSC_conception/SSC_conception_az.pdf" target="_blank"> Dövlət Statistika Komitəsinin istifadəçilərlə iş üzrə konsepsiyası</a></li> -->
+									<li><a href="//www.stat.gov.az/menu/6/information_regulations/reg_05_2016.pdf" target="_blank"> Məlumatlara yenidən baxılması reqlamenti</a></li>
+									<li><a href="//www.stat.gov.az/menu/6/calendar/calendar.xls" target="_blank"> Məlumatların dəqiqləşdirmə təqvimi</a></li>
+								</ul>
+							</div>
+							<div class="col-sm-4">
+								<ul class="list-items space-0">
+									<li><a href="//www.stat.gov.az/menu/6/personal_info/micro_inf.pdf" target="_blank"> Tədqiqat məqsədilə istifadə olunması üçün istifadəçilərə mikro məlumatların verilməsi qaydaları</a></li>
+									<li><a href="//www.stat.gov.az/menu/6/personal_info/personal_information.pdf" target="_blank"> Fərdi məlumatlarla necə işləmək, onların məxfiliyini necə qorumaq lazımdır?</a></li>
+									<li><a href="//www.stat.gov.az/menu/6/buklet/Korrupsiya.pdf" target="_blank">Korrupsiyaya qarşı mübarizəyə dair yaddaş kitabçası</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<li><a href="//www.stat.gov.az/menu/7/">Metaməlumatlar <i class="fa fa-caret-down fa-indicator"></i></a>
+				<ul class="drop-down">
+					<li><a href="//www.azstat.gov.az/MetaDataG/" target="_blank">Statistik göstəricilərə dair metaməlumat</a></li>
+					<li><a href="//www.azstat.gov.az/MetaDataW/" target="_blank">Statistik hesabatlara dair metaməlumat </a></li>
+					<li><a href="//www.azstat.gov.az/MetaDataM/" target="_blank">Statistik müayinələrə dair metaməlumat </a></li>
+					<li><a href="//www.stat.gov.az/menu/7/other_metadata/">Digər metodoloji izahatlar</a></li>
+				</ul>
+			</li>
+			<li><a href="//www.stat.gov.az/menu/8/">Bizimlə əlaqə <i class="fa fa-caret-down fa-indicator"></i></a>
+				<div class="drop-down-large">
+					<div class="container-fluid">
+						<div class="row">
+							<div class="col-sm-3">
+								<ul class="list-items space-0">
+									<li><a href="//www.azstat.gov.az/xidmetler/muraciet_v2.0/index.php?lang=az" target="_blank">Elektron müraciət</a></li>
+									<li><a href="//www.stat.gov.az/menu/8/visiting_days/"> Qəbul günləri</a></li>
+								</ul>
+							</div>
+							<div class="col-sm-4">
+								<ul class="list-items space-0">
+									<li><a href="//www.stat.gov.az/menu/8/"> Bizi necə tapmalı</a></li>
+									<li><a href="mailto:apellyasiya@stat.gov.az">Apellyasiya Şurasına müraciət</a></li>
+								</ul>
+							</div>
+							<div class="col-sm-5">
+								<ul class="list-items space-0">
+									<!--<li><a href="//www.stat.gov.az/e_unvan/" target="_blank"> Dövlət Statistika Komitəsinin əməkdaşlarının e-poçt ünvanları</a></li> -->
+									<li><a href="//www.azstat.gov.az/email_dsk/?lang=az" target="_blank"> Dövlət Statistika Komitəsinin əməkdaşlarının e-poçt ünvanları</a></li>
+									<li><a href="//www.stat.gov.az/menu/8/regions_addresses/"> Dövlət Statistika Komitəsinin yerli statistika orqanlarının ünvanları</a></li>
+								</ul>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</li>
+			<li><a href="//www.stat.gov.az/menu/8/FAQ/">FAQ</a> </li>
+			<li class="clearfix"></li>
+		</ul>
+	</section>
+</nav>
+		</section> <!--menu-->
+
+		<section class="marquee-wrapper">
+			<div class="marquee">
+				<a href=https://www.stat.gov.az/news/index.php?lang=az&amp;id=6651&lang=az><i class="fa fa-angle-right" aria-hidden="true"></i>2026-cı ilin yanvar-fevral aylarında əsas kapitala 2436,4 milyon manat məbləğində investisiya yönəldilmişdir.</a><a href=https://www.stat.gov.az/news/index.php?lang=az&amp;id=6646&lang=az><i class="fa fa-angle-right" aria-hidden="true"></i>2026-cı ilin yanvar-fevral aylarında 9,3 milyard manatlıq sənaye məhsulu istehsal edilmişdir.</a><a href=https://www.stat.gov.az/news/index.php?lang=az&amp;id=6636&lang=az><i class="fa fa-angle-right" aria-hidden="true"></i>2026-cı ilin yanvar ayında ölkədə orta aylıq nominal əməkhaqqı 1103,8 manat təşkil etmişdir.</a><a href=https://www.stat.gov.az/news/index.php?lang=az&amp;id=6633&lang=az><i class="fa fa-angle-right" aria-hidden="true"></i>2026-cı ilin yanvar-fevral aylarında ölkədə ÜDM istehsalı 0,3 faiz artmışdır.</a><a href=https://www.stat.gov.az/news/index.php?lang=az&amp;id=6643&lang=az><i class="fa fa-angle-right" aria-hidden="true"></i>2026-cı ilin yanvar-fevral aylarında pərakəndə ticarət dövriyyəsi 3,6 faiz artmışdır.</a><a href=https://www.stat.gov.az/news/index.php?lang=az&amp;id=6635&lang=az><i class="fa fa-angle-right" aria-hidden="true"></i>2026-cı ilin yanvar-fevral aylarında istehlak qiymətləri indeksi 2025-ci ilin yanvar-fevral aylarına nisbətən 105,7 faiz təşkil etmişdir.</a><a href=https://www.stat.gov.az/news/index.php?lang=az&amp;id=6645&lang=az><i class="fa fa-angle-right" aria-hidden="true"></i>2026-cı ilin yanvar ayında xarici ticarət dövriyyəsi 3092,1 milyon ABŞ dolları təşkil etmişdir.</a>			</div>
+		</section> <!--marquee-wrapper-->
+
+<section class="content">
+	<div class="row">
+		<div class="col-md-7 col-md-push-3">
+
+<!-- -------------- Siyahiyalinma-2019 üçün şəkil karuseli --------------------------
+		<div style="width:100%; margin: 0 auto;  padding: 0px; text-align: center; ">
+			<div class="row"  style="margin: 0px; padding: 0px;">
+				<div class="panel-body" style="margin: 0 auto; padding: 2px; text-align: center;">
+					<div id="carousel" class="carousel slide" data-interval="4000" data-ride="carousel" style=" margin: 0 auto;">
+						<div class="carousel-inner">
+							<div class="item active">
+								<img class="media-object img-rounded img-responsive" src="//www.azstat.gov.az/Siyahiyaalinma-2019/images/PDGN_1.png">
+							</div>
+							<div class="item">
+								<img class="media-object img-rounded img-responsive" src="//www.azstat.gov.az/Siyahiyaalinma-2019/images/PDGN_2.png">
+							</div>
+							<div class="item">
+								<img class="media-object img-rounded img-responsive" src="//www.azstat.gov.az/Siyahiyaalinma-2019/images/PDGN_3.png">
+							</div>
+							<div class="item">
+								<img class="media-object img-rounded img-responsive" src="//www.azstat.gov.az/Siyahiyaalinma-2019/images/PDGN_4.png">
+							</div>
+							<div class="item">
+								<img class="media-object img-rounded img-responsive" src="//www.azstat.gov.az/Siyahiyaalinma-2019/images/PDGN_5.png">
+							</div>
+							<div class="item">
+								<img class="media-object img-rounded img-responsive" src="//www.azstat.gov.az/Siyahiyaalinma-2019/images/PDGN_6.png">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><br/>
+--------------------------- karuseliin sonu ------------------------------>
+
+			<div class="">
+			<!--holiday section-->
+								<div class="search">
+					<form action="//www.stat.gov.az/search">
+						<div class="input-group">
+							<input type="text" class="form-control input-sm" placeholder="" name="q">
+							<span class="input-group-btn"> <button class="btn btn-primary btn-sm" type="submit"><i class="fa fa-search"></i></button> </span>
+						</div><!-- /input-group -->
+					</form>
+				</div>
+				<br>
+				<div class="text-center home-shortcuts">
+				  <div class="btn-group home-shortcuts-group">
+
+				    <a href="//www.stat.gov.az/menu/9/" class="btn btn-primary"> 'A'-'Z' </a>
+
+				    <a href="//www.azstat.gov.az/Kitweb/" class="btn btn-primary" target="_blank">
+				      <i class="fa fa-book"></i>&nbsp;E-Kitabxana
+				    </a>
+
+				    <a href="//www.stat.gov.az/menu/11/" class="btn btn-primary">
+				      <i class="fa fa-line-chart"></i>&nbsp;E-hesabatlar
+				    </a>
+
+				    <!-- DROPDOWN -->
+				    <div class="btn-group home-shortcuts-dd">
+				      <button type="button"
+				              class="btn btn-primary dropdown-toggle"
+				              data-toggle="dropdown"
+				              aria-haspopup="true"
+				              aria-expanded="false">
+				        Sahibkarlar üçün məlumatlar <span class="caret"></span>
+				      </button>
+
+				      <ul class="dropdown-menu">
+				        <li><a href="//www.stat.gov.az/source/others/SAHIBKAR-2024.pdf">Sahibkar nəyi bilməlidir</a></li>
+				        <li><a href="//www.azstat.gov.az/xidmetler/7sual/index.php?lang=" target="_blank">Sahibkarlar üçün 7 sual</a></li>
+				        <li><a href="//www.stat.gov.az/source/others/Baki_KobEvinde_numayende.pdf">“Bakı KOB evi”ndə nümayəndə</a></li>
+				      </ul>
+				    </div>
+
+				    <a href="//www.azstat.gov.az/luget/" class="btn btn-primary" target="_blank">
+				      <i class="fa fa-search"></i>&nbsp;Statistik lüğət
+				    </a>
+
+				  </div>
+				</div>
+
+				<br>
+
+				<!--<div class="row text-center">
+					<div class="col-md-5">
+						<div class="btn-group center-block">
+							<button type="button" class="btn btn-default btn-block  dropdown-toggle"
+									data-toggle="dropdown">Sahibkarlar üçün məlumatlar <span class="caret"></span>
+							</button>
+							<ul class="dropdown-menu" role="menu">
+								<li><a href="//www.stat.gov.az/source/others/SAHIBKAR_2024.pdf" target="_blank">Sahibkar nəyi bilməlidir</a></li>
+								<li><a href="//www.azstat.gov.az/xidmetler/7sual/index.php?lang=az" target="_blank">Sahibkarlar üçün 7 sual</a></li>
+							</ul>
+						</div>
+						<br><br>
+					</div>-->
+					<!--<div class="col-md-7">
+						<a href="//www.stat.gov.az/source/others/Agression_map_AZ.jpg" class="agression" data-fancybox="agression"><img src="images/aggression_hover.png" alt="agression"><span class="fluid-text">Ermənistanın Azərbaycana qarşı təcavüzünün nəticələri</span></a>
+					</div>-->
+
+					<!--<div class="clearfix"></div>
+				</div>-->
+				<div class="clearfix"></div>
+				<ul id="myTab1" class="nav nav-tabs nav-justified" style="margin-top:0">
+    <li><a href="#press" data-toggle="tab"><strong>Mətbu məlumatlar</strong></a></li>
+    <li class="active"><a href="#news" data-toggle="tab"><strong>Xəbərlər</strong></a></li>
+</ul>
+
+<div id="myTabContent" class="tab-content">
+    <div class="tab-pane fade " id="press">
+        <ul class="list-metbu">
+                                <li>
+                        <a href="news/index.php?lang=az&id=6651"><strong>(19.03.2026, 12:00)</strong> - Əsas kapitala yönəldilmiş investisiyalar haqqında</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6646"><strong>(17.03.2026, 12:00)</strong> - 2026-cı ilin yanvar-fevral aylarında sənaye istehsalı haqqında</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6645"><strong>(17.03.2026, 12:00)</strong> - Xarici ticarət əlaqələri haqqında</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6643"><strong>(16.03.2026, 12:00)</strong> - Pərakəndə ticarət dövriyyəsi haqqında</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6642"><strong>(16.03.2026, 12:00)</strong> - Ölkədə sosial təminat haqqında</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6636"><strong>(13.03.2026, 12:00)</strong> - Ölkədə muzdla çalışan işçilərin sayı və əməkhaqqı barədə</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6635"><strong>(13.03.2026, 12:00)</strong> - İstehlak bazarında qiymətlərin dəyişməsi haqqında</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6634"><strong>(12.03.2026, 12:00)</strong> - 2025-ci ildə arıçılıq məhsullarının istehsalı haqqında</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6633"><strong>(12.03.2026, 12:00)</strong> - 2026-cı ilin yanvar-fevral aylarında Ümumi Daxili Məhsul istehsalı</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6630"><strong>(05.03.2026, 12:00)</strong> - Dövlət Statistika Komitəsi 8 Mart münasibətilə statistik göstəriciləri açıqlayıb</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6627"><strong>(26.02.2026, 12:00)</strong> - Meşəbərpa tədbirlərinin aparılması haqqında</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6625"><strong>(25.02.2026, 12:00)</strong> - 2026-cı ilin yanvar ayında Azərbaycan Respublikasına gəlmiş əcnəbilərin və vətəndaşlığı olmayan şəxslərin, habelə Azərbaycan Respublikasından xarici ölkələrə getmiş Azərbaycan Respublikası vətəndaşlarının sayı barədə</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6624"><strong>(25.02.2026, 12:00)</strong> - Narkotik vasitələrlə bağlı cinayətlər haqqında</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6616"><strong>(16.02.2026, 12:00)</strong> - 2025-ci ildə avtomobil yollarında baş vermiş yol-nəqliyyat hadisələri haqqında</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6615"><strong>(16.02.2026, 12:00)</strong> - 2025-ci ildə nəqliyyat dəhlizlərində yük daşımaları haqqında</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6610"><strong>(12.02.2026, 12:00)</strong> - Xarici ticarət əlaqələri haqqında</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6606"><strong>(11.02.2026, 12:00)</strong> - 2026-cı ilin yanvar ayında Ümumi Daxili Məhsul istehsalı</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6605"><strong>(11.02.2026, 12:00)</strong> - Pərakəndə ticarət dövriyyəsi haqqında</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6604"><strong>(11.02.2026, 10:48)</strong> - İqtisadiyyatda işləyənlərin sayı və əməkhaqqı barədə</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6602"><strong>(11.02.2026, 10:47)</strong> - Əsas kapitala yönəldilmiş investisiyalar haqqında</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6603"><strong>(11.02.2026, 10:47)</strong> - 2026-cı ilin yanvar ayında sənaye istehsalı haqqında</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6601"><strong>(11.02.2026, 10:34)</strong> - İstehlak bazarında qiymətlərin dəyişməsi haqqında</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6592"><strong>(27.01.2026, 12:00)</strong> - 2025-ci ildə mehmanxana (hotel) və mehmanxana tipli obyektlərin fəaliyyəti haqqında</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6589"><strong>(23.01.2026, 12:00)</strong> - Turizmin mövcud vəziyyəti haqqında</a>
+                    </li>
+                               <li>
+                        <a href="news/index.php?lang=az&id=6584"><strong>(19.01.2026, 12:00)</strong> - Xarici ticarət əlaqələri haqqında</a>
+                    </li>
+                   </ul>
+        <br>
+        <a href="//www.stat.gov.az/news/news.php?lang=az&topic=20&page=1" class="btn btn-primary">Arxiv</a>
+
+    </div>
+    <div class="tab-pane fade  active in" id="news">
+        <ul class="media-list list-news">
+                                <li class="media">
+                        <a class="pull-left" href="news/index.php?lang=az&id=6631">
+                                                            <img class="media-object img-rounded img-responsive" src="images/news/logo/2026/03/06/7pNY67-omissiyasinin-57-ci-sessiyasi-ve-resmi-statistika-uzre-yuksek-seviyyeli-forumunda-ishtirak-edib.jpg" alt="thumbnail">
+                                                    </a>
+                        <div class="media-body">
+                            <h5 class="media-heading"><a href="news/index.php?lang=az&id=6631">Azərbaycan Respublikasının Dövlət Statistika Komitəsi BMT-nin Statistika Komissiyasının 57-ci sessiyası və rəsmi statistika üzrə Yüksək Səviyyəli Forumunda iştirak edib</a></h5>
+                            <div class="news-meta"><span class="fa fa-calendar"></span> <small>06.03.2026, 14:41</small></div>
+                            <div class="news-anons">2026-cı ilin 2 - 6 mart tarixlərində Nyu York şəhərində BMT-nin Statistika Komissiyasının 57-ci sessiyası və &Uuml;DM-in əhatə dairəsinə daxil olmayan g&ouml;stəricilərə həsr olunmuş Rəsmi Statistikaya dair Y&uuml;ksək Səviyyəli Forum ke&ccedil;irilib. Tədbirlərdə Azərbaycan Respublikası D&ouml;vlət Statistika Komitəsi sədrinin birinci m&uuml;avini Vahab Məmmədov iştirak edib.</div>
+                        </div>
+                    </li>
+                              <li class="media">
+                        <a class="pull-left" href="news/index.php?lang=az&id=6628">
+                                                            <img class="media-object img-rounded img-responsive" src="images/news/logo/2026/02/26/yzEjgQ-hesr-olunmush-tedbir-kecirilib.jpg" alt="thumbnail">
+                                                    </a>
+                        <div class="media-body">
+                            <h5 class="media-heading"><a href="news/index.php?lang=az&id=6628">Dövlət Statistika Komitəsində Xocalı soyqırımının 34-cü ildönümünə  həsr olunmuş tədbir keçirilib</a></h5>
+                            <div class="news-meta"><span class="fa fa-calendar"></span> <small>26.02.2026, 15:16</small></div>
+                            <div class="news-anons">Fevralın 26-da Azərbaycan Respublikasının D&ouml;vlət Statistika Komitəsində Xocalı soyqırımının 34-c&uuml; ild&ouml;n&uuml;m&uuml;nə həsr olunmuş tədbir ke&ccedil;irilib.</div>
+                        </div>
+                    </li>
+                              <li class="media">
+                        <a class="pull-left" href="news/index.php?lang=az&id=6613">
+                                                            <img class="media-object img-rounded img-responsive" src="images/news/logo/2026/02/13/6mDPjT-.jpg" alt="thumbnail">
+                                                    </a>
+                        <div class="media-body">
+                            <h5 class="media-heading"><a href="news/index.php?lang=az&id=6613">Dövlət Statistika Komitəsində 2025-ci ilin yekunlarına və 2026-cı ildə qarşıda duran vəzifələrə həsr olunan geniş kollegiya iclası keçirilib</a></h5>
+                            <div class="news-meta"><span class="fa fa-calendar"></span> <small>13.02.2026, 17:51</small></div>
+                            <div class="news-anons">Fevralın 13-də Komitənin aparatının struktur b&ouml;lmələrinin, Nax&ccedil;ıvan Muxtar Respublikası D&ouml;vlət Statistika Komitəsinin, şəhər və rayon statistika idarələrinin rəhbərlərinin iştirakı ilə Azərbaycan Respublikasının D&ouml;vlət Statistika Komitəsində 2025-ci ildə &ouml;lkənin statistika orqanlarının fəaliyyəti və 2026-cı ildə qarşıda duran vəzifələrin m&uuml;zakirəsinə həsr olunmuş geniş kollegiya iclası ke&ccedil;irilib.</div>
+                        </div>
+                    </li>
+                              <li class="media">
+                        <a class="pull-left" href="news/index.php?lang=az&id=6607">
+                                                            <img class="media-object img-rounded img-responsive" src="images/news/logo/2026/02/11 16:13:55/Ts4tMN-dovlet-statistika-komitesinin-yeni-vezifeye-teyin-edilmish-sedri-komitenin-kollektivine-teqdim-olunub.jpg" alt="thumbnail">
+                                                    </a>
+                        <div class="media-body">
+                            <h5 class="media-heading"><a href="news/index.php?lang=az&id=6607">Dövlət Statistika Komitəsinin yeni vəzifəyə təyin edilmiş sədri Komitənin kollektivinə təqdim olunub</a></h5>
+                            <div class="news-meta"><span class="fa fa-calendar"></span> <small>11.02.2026, 16:13</small></div>
+                            <div class="news-anons">Azərbaycan Respublikası Prezidentinin 10 fevral 2026-cı il tarixli Sərəncamına əsasən D&ouml;vlət Statistika Komitəsinin sədri təyin edilən Azər Mursaqulovu Azərbaycan Respublikası Prezidentinin sosial-iqtisadi məsələlər &uuml;zrə k&ouml;mək&ccedil;isi Xalid Əhədov fevralın 11-də Komitənin kollektivinə təqdim edib.</div>
+                        </div>
+                    </li>
+                              <li class="media">
+                        <a class="pull-left" href="news/index.php?lang=az&id=6599">
+                                                            <img class="media-object img-rounded img-responsive" src="images/news/logo/2026/01/30/ODxsil-catib.jpg" alt="thumbnail">
+                                                    </a>
+                        <div class="media-body">
+                            <h5 class="media-heading"><a href="news/index.php?lang=az&id=6599">Dövlət Statistika Komitəsinin nümayəndə heyətinin Vyetnama səfəri başa çatıb</a></h5>
+                            <div class="news-meta"><span class="fa fa-calendar"></span> <small>30.01.2026, 17:07</small></div>
+                            <div class="news-anons">Azərbaycan Respublikası D&ouml;vlət Statistika Komitəsinin sədri Tahir Budaqovun rəhbərlik etdiyi n&uuml;mayəndə heyəti Vyetnam Sosialist Respublikasına səfəri &ccedil;ər&ccedil;ivəsində bu &ouml;lkənin iqtisadi-maliyyə mərkəzi və əhali sayına g&ouml;rə ən b&ouml;y&uuml;k şəhəri olan Ho Şi Min şəhərində bir sıra g&ouml;r&uuml;şlər ke&ccedil;irib.</div>
+                        </div>
+                    </li>
+                              <li class="media">
+                        <a class="pull-left" href="news/index.php?lang=az&id=6593">
+                                                            <img class="media-object img-rounded img-responsive" src="images/news/logo/2026/01/27/xhbnum-.jpg" alt="thumbnail">
+                                                    </a>
+                        <div class="media-body">
+                            <h5 class="media-heading"><a href="news/index.php?lang=az&id=6593">Dövlət Statistika Komitəsinin sədri Tahir Budaqov Vyetnamda səfərdədir</a></h5>
+                            <div class="news-meta"><span class="fa fa-calendar"></span> <small>27.01.2026, 16:11</small></div>
+                            <div class="news-anons">Azərbaycan Respublikası D&ouml;vlət Statistika Komitəsinin sədri Tahir Budaqovun rəhbərlik etdiyi n&uuml;mayəndə heyəti Vyetnam Milli Statistika İdarəsinin baş direktoru Nguyen Thi Hongun dəvəti ilə Vyetnam Sosialist Respublikasına səfər edib.</div>
+                        </div>
+                    </li>
+                              <li class="media">
+                        <a class="pull-left" href="news/index.php?lang=az&id=6585">
+                                                            <img class="media-object img-rounded img-responsive" src="images/news/logo/2026/01/20/LfFAes-ini-ziyaret-edib.jpg" alt="thumbnail">
+                                                    </a>
+                        <div class="media-body">
+                            <h5 class="media-heading"><a href="news/index.php?lang=az&id=6585">Dövlət Statistika Komitəsinin rəhbərliyi və kollektivi Şəhidlər Xiyabanını ziyarət edib</a></h5>
+                            <div class="news-meta"><span class="fa fa-calendar"></span> <small>20.01.2026, 13:41</small></div>
+                            <div class="news-anons">20 Yanvar faciəsinin 36-cı ild&ouml;n&uuml;m&uuml; ilə əlaqədar D&ouml;vlət Statistika Komitəsinin rəhbərliyi və kollektivi Şəhidlər Xiyabanını ziyarət edib.</div>
+                        </div>
+                    </li>
+                              <li class="media">
+                        <a class="pull-left" href="news/index.php?lang=az&id=6566">
+                                                            <img class="media-object img-rounded img-responsive" src="images/news/logo/2025/12/26/0tqZB6-2030-cu-iller-ucun-dovlet-proqrami-tesdiq-edilib.jpg" alt="thumbnail">
+                                                    </a>
+                        <div class="media-body">
+                            <h5 class="media-heading"><a href="news/index.php?lang=az&id=6566">“Azərbaycan Respublikasında rəsmi statistikanın inkişafına dair  2026–2030-cu illər üçün Dövlət Proqramı” təsdiq edilib</a></h5>
+                            <div class="news-meta"><span class="fa fa-calendar"></span> <small>26.12.2025, 17:14</small></div>
+                            <div class="news-anons">Azərbaycan Respublikasının Prezidenti İlham Əliyev sosial-iqtisadi inkişaf sahəsində d&ouml;vlət siyasətinin prioritet istiqamətlərini ger&ccedil;əkləşdirmək və əsas məqsədlərinə &ccedil;atmaq &uuml;&ccedil;&uuml;n d&ouml;vlət proqramlarının, strategiyaların, konsepsiyaların və digər strateji sənədlərin hazırlanması...</div>
+                        </div>
+                    </li>
+                              <li class="media">
+                        <a class="pull-left" href="news/index.php?lang=az&id=6561">
+                                                            <img class="media-object img-rounded img-responsive" src="images/news/logo/2025/12/25 11:53:40/LtQ5rM-dayaniqli-inkishaf-meqsedleri-statistik-icmali-neshr-olunmushdur.jpg" alt="thumbnail">
+                                                    </a>
+                        <div class="media-body">
+                            <h5 class="media-heading"><a href="news/index.php?lang=az&id=6561">“Dayanıqlı İnkişaf Məqsədləri” statistik icmalı nəşr olunmuşdur.</a></h5>
+                            <div class="news-meta"><span class="fa fa-calendar"></span> <small>25.12.2025, 11:53</small></div>
+                            <div class="news-anons">Statistik icmalda &ouml;lkə &uuml;zrə dayanıqlı inkişaf məqsədləri g&ouml;stəricilərinə dair statistik məlumatlar verilmişdir.</div>
+                        </div>
+                    </li>
+                  </ul>
+        <br>
+        <a href="//www.stat.gov.az/news/news.php?lang=az&topic=10&page=1" class="btn btn-primary">Arxiv</a>
+        <a href="//www.stat.gov.az/rss/az" target="_blank" class="pull-right" style="color:#fd7c00;"><i class="fa fa-2x fa-rss-square" aria-hidden="true"></i></a>
+    </div>
+</div>
+			</div>
+<!-- -------------- Kənd təssərüfatı siyahiyalinması-2025 üçün video karuseli -------------------------->
+<!--	<div style="width:100%; margin: 0 auto;  padding: 0px; text-align: center; margin-top: -20px; margin-bottom: 15px;">
+		<div class="row"  style="margin: 0px; padding: 0px;">
+			<div class="panel-body" style="margin: 0 auto; padding: 2px; text-align: center;">
+				<div id="carousel" class="carousel slide" data-interval="40000" data-ride="carousel" style=" margin: 0 auto;">
+					<div class="carousel-inner">
+						<div class="item active" style="width:49%; float: left; border: 1px solid black;">
+							<video id="myvideo1" style="width:100%; vertical-align: middle; margin: 0 auto;" controls="controls" loop="loop" autoplay="autoplay" muted onloadedmetadata="this.play()" preload="auto" poster="">
+								<source src="//www.azstat.gov.az/video_telimat/Siyahıyaalınma_kend_1.mp4"  type="video/mp4" />
+								Sizin brauzerininz videonu təstəkləmir. &nbsp; <a href="video_telimat/Siyahıyaalınma_kend_1.mp4">Baxış üçün videonu endirin.</a>
+							</video>
+						</div>
+						<div class="item active" style="width:49%; float: left; border: 1px solid black; margin-left: 10px;">
+							<video id="myvideo2" style="width:100%; vertical-align: middle; margin: 0 auto;" controls="controls" loop="loop" autoplay="autoplay" muted onloadedmetadata="this.play()" preload="auto" poster="">
+								<source src="//www.azstat.gov.az/video_telimat/Siyahıyaalınma_kend_2.mp4"  type="video/mp4" />
+								Sizin brauzerininz videonu təstəkləmir. &nbsp; <a href="video_telimat/Siyahıyaalınma_kend_2.mp4">Baxış üçün videonu endirin.</a>
+							</video>
+						</div>
+					</div>
+					<script type="text/javascript">
+						var video1 = document.getElementById("myvideo1");
+						//video1.muted = false;
+						video1.volume = 0.3;
+						var video2 = document.getElementById("myvideo2");
+						//video2.muted = false;
+						video2.volume = 0.3;
+						var promise = document.querySelector('video').play();
+					</script>
+				</div>
+			</div>
+		</div>
+	</div>-->
+<!----------------------------- karuseliin sonu ------------------------------>
+		</div><!--col-md-7-->
+		<div class="col-md-3 col-md-pull-7"> 
+<div class="marginRightZero">
+<div id="quotes">
+	 <img src="//www.stat.gov.az/images/heyder eliyev_2.png" class="center-block thumbnail img-responsive" alt="heyder eliyev" style="margin-bottom: 10px;">
+	 <!--<img src="//www.stat.gov.az/images/heyder-eliyev.png" class="center-block thumbnail img-responsive" alt="heyder eliyev">-->
+</div>
+<!--<div class="list-group marg_bt" style="margin-bottom: 10px;">
+	<a href="//www.stat.gov.az/menu/15/" style="margin-bottom: 10px;">
+		<img src="//www.stat.gov.az/images/logo_cr_08_2.jpg" class="center-block thumbnail img-responsive" style="margin-bottom: 10px;">
+	</a>
+</div>-->
+
+<div class="panel panel-primary" style="margin-bottom: 10px;">
+	<div class="panel-heading">Elektron xəritə </div>
+	<div class="panel-body">
+<!--		<a href="//www.stat.gov.az/map" target="_blank">-->
+		<a href="//www.azstat.gov.az/webmap/?lang=az" target="_blank">
+			<img src="//www.stat.gov.az/images/map_az.gif" class="img-responsive  center-block" alt="map" style="margin-bottom: 10px;">
+		</a>
+	</div>
+</div>
+
+<div class="panel" style="margin-bottom: 10px;">
+	<div class="list-group">
+		<a href="//www.azstat.gov.az/portal/?lang=az" target="_blank" class="list-group-item" onclick="click_counter('26')"><span class="fa fa-database fa-lg text-danger"></span>&nbsp; Statistik informasiya xidməti (ASİS)</a>
+		<!--<a href="//www.azstat.gov.az/interaktiv/" target="_blank" class="list-group-item"><span class="fa fa-user fa-lg text-danger"></span>&nbsp; Şəxsi kabinet</a> -->
+<!--		<a href="//www.stat.gov.az/menu/13/" class="list-group-item"><span class="fa fa-database fa-lg text-danger"></span>&nbsp; Statistik məlumat bazası</a>
+		<a href="//www.stat.gov.az/menu/14/" class="list-group-item"><span class="fa fa-list fa-lg text-danger"></span>&nbsp; İnteraktiv cədvəllər</a>-->
+		<a href="//www.stat.gov.az/news/macroeconomy.php?page=1&lang=az" class="list-group-item"><span class="fa fa-bar-chart fa-lg text-danger"></span>&nbsp; Aylıq makroiqtisadi göstəricilər</a>
+		<a href="//www.stat.gov.az/source/myxs/" class="list-group-item"><span class="fa fa-tags fa-lg text-danger"></span>&nbsp; BVF üzrə MYXS (SDDS)</a>
+	</div>
+</div>
+
+<div class="leftmenu">
+	<div class="list-group" style="margin-bottom: 10px;">
+		<div class="list-group-item activetitle"><i class="fa fa-folder-open" aria-hidden="true"></i> Demoqrafik və sosial statistika</div>
+		<a href="//www.stat.gov.az/source/demoqraphy/" class="list-group-item" onclick="click_counter('1')">Əhali</a>
+		<a href="//www.stat.gov.az/source/labour/" class="list-group-item" onclick="click_counter('2')">Əmək bazarı</a>
+		<a href="//www.stat.gov.az/source/education/" class="list-group-item" onclick="click_counter('3')">Təhsil, elm və mədəniyyət</a>
+		<a href="//www.stat.gov.az/source/healthcare/" class="list-group-item"  onclick="click_counter('4')">Səhiyyə, sosial müdafiə, idman</a>
+		<a href="//www.stat.gov.az/source/crimes/" class="list-group-item" onclick="click_counter('5')">Cinayətkarlıq və hüquqpozmalar</a>
+		<div class="list-group-item activetitle"><i class="fa fa-folder-open" aria-hidden="true"></i> İqtisadi statistika</div>
+		<a href="//www.stat.gov.az/source/system_nat_accounts/" class="list-group-item" onclick="click_counter('6')">Milli hesablar sistemi və tədiyə balansı</a>
+		<a href="//www.stat.gov.az/source/agriculture/" class="list-group-item" onclick="click_counter('7')">Kənd təsərrüfatı, meşə təsərrüfatı və balıqçılıq</a>
+		<a href="//www.stat.gov.az/source/industry/" class="list-group-item" onclick="click_counter('8')">Sənaye</a>
+		<a href="//www.stat.gov.az/source/balance_fuel/" class="list-group-item" onclick="click_counter('9')">Energetika</a>
+		<a href="//www.stat.gov.az/source/construction/" class="list-group-item" onclick="click_counter('10')">Tikinti</a>
+		<a href="//www.stat.gov.az/source/trade/" class="list-group-item" onclick="click_counter('11')">Ticarət</a>
+		<a href="//www.stat.gov.az/source/transport/" class="list-group-item" onclick="click_counter('12')">Nəqliyyat</a>
+		<a href="//www.stat.gov.az/source/communication/" class="list-group-item" onclick="click_counter('13')">Telekommunikasiya və poçt</a>
+		<a href="//www.stat.gov.az/source/finance/" class="list-group-item" onclick="click_counter('14')">Maliyyə və bank</a>
+		<a href="//www.stat.gov.az/source/price_tarif/" class="list-group-item" onclick="click_counter('15')">Qiymət</a>
+		<a href="//www.stat.gov.az/source/paid_services/" class="list-group-item" onclick="click_counter('16')">Ödənişli xidmət</a>
+		<a href="//www.stat.gov.az/source/catering/" class="list-group-item" onclick="click_counter('28')">İaşə</a>
+		<a href="//www.stat.gov.az/source/tourism/" class="list-group-item" onclick="click_counter('17')">Turizm</a>
+		<a href="//www.stat.gov.az/source/st_units/" class="list-group-item" onclick="click_counter('25')">  Statistik vahidlər və onların demoqrafiyası</a>
+		<div class="list-group-item activetitle"><i class="fa fa-folder-open" aria-hidden="true"></i> Ətraf mühit və digər sahələr</div>
+		<a href="//www.stat.gov.az/source/environment/" class="list-group-item" onclick="click_counter('18')">Ətraf mühitin mühafizəsi</a>
+		<a href="//www.stat.gov.az/source/regions/" class="list-group-item" onclick="click_counter('19')">Regionlar</a>
+		<a href="//www.stat.gov.az/source/budget_households/" class="list-group-item" onclick="click_counter('20')">Ev təsərrüfatları büdcəsi</a>
+		<a href="//www.stat.gov.az/source/gender/" class="list-group-item" onclick="click_counter('21')">Gender</a>
+		<a href="//www.stat.gov.az/source/digital_development/" class="list-group-item" onclick="click_counter('22')">Rəqəmsal inkişaf</a>
+		<a href="//www.stat.gov.az/source/entrepreneurship/" class="list-group-item" onclick="click_counter('23')">Sahibkarlıq</a>
+		<a href="//www.stat.gov.az/source/food_balances/" class="list-group-item" onclick="click_counter('24')">Ərzaq balansları</a>
+	</div>
+	<div class="list-group marg_bt" style="margin-bottom: 10px;">
+			  <a href="//www.stat.gov.az/template/sdg.php?lang=az" target="_blank" class="list-group-item" style="padding: 5px; margin-bottom:3px">
+         <img src="//www.stat.gov.az/images/banner/sidebar/az/sdg_banner_az_305.png" class="img-responsive center-block"
+		  alt="Dayanıqlı İnkişaf Məqsədləri göstəriciləri üzrə statistik məlumatlar"
+		  title="Azərbaycan Respublikasının Dayanıqlı İnkişaf Məqsədləri üzrə Milli Məlumatlandırma Portalı" data-toggle="tooltip" data-placement="bottom">
+      </a>
+
+      <a href="//www.azstat.gov.az/HSSP/" target="_blank" class="list-group-item" style="padding: 5px; margin-bottom:3px;" onclick="click_counter('27')">
+	  <!--<a href="#" target="_self" class="list-group-item" style="padding: 5px; margin-bottom:3px;" onclick="click_counter('27')">-->
+        <img src="//www.stat.gov.az/images/banner/sidebar/az/hasilat_2021_az.png" class="img-responsive center-block"
+         alt="Hasilat sənayesində səffaflıq" title="Hasilat sənayesində səffaflıq" data-toggle="tooltip" data-placement="bottom">
+      </a>
+
+	<!--<a href="https://azstat.org/HSSP/" target="_blank" class="list-group-item" style="padding: 5px; margin-bottom:3px;" onclick="click_counter('27')">
+        <img src="//www.stat.gov.az/images/banner/sidebar/az/hasilat_2021_az.png" class="img-responsive center-block"
+         alt="Hasilat sənayesində səffaflıq" title="Hasilat sənayesində səffaflıq" data-toggle="tooltip" data-placement="bottom">
+      </a>-->
+
+	  <a href="//www.azstat.gov.az/MICS/" class="list-group-item" style="padding: 5px;" onclick="click_counter('29')" target="_blank">
+        <img src="//www.stat.gov.az/images/banner/sidebar/az/mics_az.png" class="img-responsive center-block">
+      </a>
+	</div>
+</div>
+	<div class="list-group">
+		<a class="list-group-item" href="//www.azstat.gov.az/sorgu2016/" target="_blank"><i class="fa fa-2x fa-check-square-o pull-left" aria-hidden="true"></i> İstifadəçilərin statistik məlumatlarla təmin olunması barədə sorğu</a>
+	</div> <!--
+-->
+</div>
+ </div>
+		<div class="col-md-2"> 
+<div class="marginLeftZero">
+    <a href="https://www.heydaraliyevcenter.az/" target="_blank">
+        <img src="//www.stat.gov.az/images/banner/sidebar/az/heyder-eliyev-merkezi.png" class="thumbnail img-responsive center-block" style="margin-bottom: 10px" alt="heyder aliyev" title="" data-toggle="tooltip" data-placement="bottom">
+    </a>
+    <a href="https://www.president.az/" target="_blank">
+        <img src="//www.stat.gov.az/images/banner/sidebar/az/president-az.png" class="thumbnail img-responsive center-block" style="margin-bottom: 10px" alt="president" title="" data-toggle="tooltip" data-placement="bottom">
+    </a>
+    <a href="https://www.mehriban-aliyeva.az/" target="_blank">
+        <img src="//www.stat.gov.az/images/banner/sidebar/az/mehriban-aliyeva.png" class="thumbnail img-responsive center-block" style="margin-bottom: 10px" alt="mehriban aliyeva" title="" data-toggle="tooltip" data-placement="bottom">
+    </a>
+    <a href="https://heydar-aliyev-foundation.org/az" target="_blank">
+        <img src="//www.stat.gov.az/images/banner/sidebar/az/heyder-eliyev-fondu.png" class="thumbnail img-responsive center-block" style="margin-bottom: 10px" alt="heyder aliyev" title="" data-toggle="tooltip" data-placement="bottom">
+    </a>
+    <a href="https://www.justiceforkhojaly.org/az" target="_blank">
+        <img src="//www.stat.gov.az/images/banner/sidebar/az/khojaly.png" class="thumbnail img-responsive center-block" style="margin-bottom: 10px" alt="khojaly" title="" data-toggle="tooltip" data-placement="bottom">
+    </a>
+    <a href="https://www.virtualkarabakh.az/" target="_blank">
+        <img src="//www.stat.gov.az/images/banner/sidebar/az/virtual-karabakh.png" class="thumbnail img-responsive center-block" style="margin-bottom: 10px" alt="virtual karabakh" title="" data-toggle="tooltip" data-placement="bottom">
+    </a>
+    <a href="https://www.azertag.az/" target="_blank">
+        <img src="//www.stat.gov.az/images/banner/sidebar/az/azertag.png" class="thumbnail img-responsive center-block" style="margin-bottom: 10px" alt="azertag" title="" data-toggle="tooltip" data-placement="bottom">
+    </a>
+
+    <a href="http://etsim.azstat.gov.az/az/publication" target="_blank">
+        <img src="//www.stat.gov.az/images/banner/sidebar/az/statistikaxeberleri.png" class="thumbnail img-responsive center-block" style="margin-bottom: 10px" alt="statistika xeberleri" title="Statistika xəbərləri" data-toggle="tooltip" data-placement="bottom">
+    </a>
+<!--    <a href="//www.stat.gov.az/menu/2/state_programs/2018_2025/" class="thumbnail img-responsive center-block" style="text-decoration: none; margin-bottom: 10px"
+         title="Dövlət proqramları" data-toggle="tooltip" data-placement="bottom">
+       <div style="background-color:#688897;  padding:10px">
+          <p style="font-size:11px; color:#fff; margin:0"><i class="fa fa-file-text-o" style="font-size:16px;"></i><b> &nbsp; Dövlət Proqramları </b></p>
+       </div>
+    </a>-->
+
+    <a href="//www.stat.gov.az/menu/2/state_programs/2026_2030/" target="_blank" class="thumbnail img-responsive center-block" style="text-decoration: none; margin-bottom: 10px"
+       title="Dövlət Proqramları" data-toggle="tooltip" data-placement="bottom">
+       <div style="background-color:#688897; height:40px; padding:4px">
+          <img style="float:left; width:30px; margin-left:3px" src="//www.stat.gov.az/images/logo/gerb.png" alt="Dövlət Proqramları">
+          <p style="font-size:12px; color:#fff; text-align: center; width:90%;">Dövlət<br />Proqramları</p>
+       </div>
+    </a>
+
+    <a href="https://azranking.az" target="_blank" class="thumbnail img-responsive center-block" style="text-decoration: none; margin-bottom: 10px;"
+       title="Azərbaycan Respublikasının Biznes Mühiti və Beynəlxalq Reytinqlər üzrə Komissiyası" data-toggle="tooltip" data-placement="bottom">
+       <div style="background-color:#688897; height:55px; padding:4px">
+          <img style="float:left; width:40px;" src="//www.stat.gov.az/images/logo/gerb.png" alt="Biznes Mühiti və Beynəlxalq Reytinqlər üzrə Komissiya">
+          <p style="font-size:11px; color:#fff; margin-left:45px;"><b>Biznes Mühiti və Beynəlxalq Reytinqlər üzrə Komissiya</b> </p>
+       </div>
+    </a>
+    <a href="https://www.e-gov.az/" target="_blank">
+        <img src="//www.stat.gov.az/images/banner/sidebar/az/e-gov-az.png" class="thumbnail img-responsive center-block" style="margin-bottom: 10px" alt="Elektron hökumət" title="Elektron hökumət" data-toggle="tooltip" data-placement="bottom">
+    </a>
+    <!--<a href="https://www.eu-step.eu" target="_blank">
+        <img src="//www.stat.gov.az/images/banner/step-logo.png" class="thumbnail img-responsive center-block" alt="Şərq tərəfdaşlığı vasitəsilə statistika"
+		 title="Şərq tərəfdaşlığı vasitəsilə statistika" data-toggle="tooltip" data-placement="bottom">
+    </a> -->
+
+    <div class="panel panel-primary" style="margin-bottom: 10px;">
+        <div class="panel-body">
+            <a href="//www.stat.gov.az/menu/2/quality/az/sertifikat_ISO_9001_2015.pdf" target="_blank">
+                <strong class="text-center center-block">İSO 9001:2015 standartı üzrə sertifikat</strong><img src="//www.stat.gov.az/images/ISO_2015.png" style="margin-bottom: 10px" class="img-responsive center-block" alt="iso">
+            </a>
+        </div>
+    </div>
+
+    <div class="panel panel-primary" style="margin-bottom: 10px;">
+        <div class="panel-heading">Aktual mövzular</div>
+        <div class="list-group">
+            <div class="owl-carousel owl-theme">
+                <div class='item'><a href='https://www.stat.gov.az/source/others/melumat_2025_illik.pdf' target='_blank'>Azərbaycan Respublikası Dövlət Statistika Komitəsinin aparatına 2025-ci ildə daxil olan vətəndaş müraciətlərinə baxılması barədə MƏLUMAT</a></div><div class='item'><a href='https://www.stat.gov.az/source/others/sorqu-yekun-2025-ARAYIŞ.pdf' target='_blank'>2025-ci il üzrə istifadəçilərin statistik məlumatlarla  təmin olunması barədə onlayn sorğunun nəticələri ilə 2024-cü  ildə aparılmış sorğunun nəticələrinin təhlili və müqayisəsi barədə</a></div><div class='item'><a href='https://www.stat.gov.az/source/others/Appeal_23.01.2025.pdf' target='_blank'>Azərbaycan Respublikası Dövlət Statistika Komitəsinin aparatına 2024-cü ildə daxil olan vətəndaş müraciətlərinə baxılması barədə</a></div><div class='item'><a href='https://www.stat.gov.az/source/others/Q_Q.pdf' target='_blank'>Azərbaycan Milli Statistika Sisteminin Qlobal Qiymətləndirilməsi</a></div>            </div>
+        </div>
+    </div>
+
+    <a href="http://www.taxes.gov.az/modul.php?name=pages&page=230" target="_blank">
+        <img src="//www.stat.gov.az/images/banner/sidebar/az/macro_taxes.png" class="thumbnail img-responsive center-block" style="margin-bottom: 10px" alt="Azərbaycan Respublikasında xarici investisiyalar üçün vergi mühiti">
+    </a>
+
+    <a href="//www.stat.gov.az//menu/2/melumat/melumat.pdf" target="_blank">
+        <img src="//www.stat.gov.az/images/banner/sidebar/az/melumat.png" class="thumbnail img-responsive center-block" style="margin-bottom: 10px" alt="istifadəçilər üçün məlumat">
+    </a>
+</div>
+ </div>
+		<div class="clearfix"> </div>
+	</div>
+</section><!--content-->
+<script src="//www.stat.gov.az/js/bootstrap.min.js"></script>
+<script src="//www.stat.gov.az/js/menu/matchMedia.min.js"></script>
+<script src="//www.stat.gov.az/js/menu/matchMedia.addListener.min.js"></script>
+<script src="//www.stat.gov.az/js/menu/material.min.js"></script>
+<script src="//www.stat.gov.az/js/menu/menu.js"></script>
+<script src="//www.stat.gov.az/js/jquery.marquee.min.js"></script>
+<script src="//www.stat.gov.az/js/main.js"></script>
+<script src="//www.stat.gov.az/js/owl.carousel.min.js"></script>
+<script src="//www.stat.gov.az/js/jquery.fancybox.min.js"></script>
+<!--<script src="//www.stat.gov.az/js/floating-wpp.min.js"></script>-->
+<script src="//www.stat.gov.az/js/floating-wpp.js"></script>
+<script type="text/javascript" src="//www.stat.gov.az/link_click_counter/click_counter_az.js" ></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-93848734-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-93848734-1');
+</script>
+<!--<script type="text/javascript" src="./jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="./floating-wpp.min.js"></script>
+<link rel="stylesheet" href="./floating-wpp.min.css">-->
+</div><!--container-->
+</div><!--general_wrapper-->
+
+<div class="col-lg-12 banners">
+    <div class="text-center">
+
+        <a href="http://data.un.org/" target="_blank">
+            <img src="//www.stat.gov.az/images/banner/footer/az/un_data_.png" style="border-radius: 4px;" alt="un_data"> </a>
+
+        <a href="//www.stat.gov.az/link_click_counter/">
+            <img src="//www.stat.gov.az/images/banner/footer/az/stat_saheleri.png" style="border-radius: 4px;" alt="statistikanin_saheleri"> </a>
+
+        <a href="//www.stat.gov.az/source/statistics_www/">
+            <img src="//www.stat.gov.az/images/banner/footer/az/btsq2.png" style="border-radius: 4px;" alt="beynelxalq-teskilatlar-ve-statistika-qurumlari"> </a>
+
+        <a href="http://www.gov.az/" target="_blank">
+            <img src="//www.stat.gov.az/images/banner/footer/az/dovletsaytlari.png" style="border-radius: 4px;" alt="dovletsaytlari"> </a>
+
+<!--        <a href="https://www.e-gov.az/" target="_blank">
+            <img src="//www.stat.gov.az/images/banner/footer/az/e-gov.png" style="border-radius: 4px;" alt="Elektron hökumət" title="Elektron hökumət" data-toggle="tooltip" data-placement="top"> </a>
+			-->
+		<!--<a href="http://www.baku.azstat.org/" target="_blank">-->
+        <a href="http://www.baku.azstat.gov.az/" target="_blank">
+            <img src="//www.stat.gov.az/images/banner/footer/az/bakustat.png" style="border-radius: 4px;" alt="baki_statistika_idaresi"> </a>
+
+        <a href="https://nstat.gov.az/" target="_blank">
+            <img src="//www.stat.gov.az/images/banner/footer/az/nmr_statkomite.png" style="border-radius: 4px;" alt="naxcivan_statistika_komitesi"> </a>
+
+        <!--<a href="http://www.etsim.az/" target="_blank">-->
+        <a href="http://etsim.azstat.gov.az/" target="_blank">
+           <img src="//www.stat.gov.az/images/banner/footer/az/etsim.png" style="border-radius: 4px;" alt="etsim"> </a>
+
+    </div>
+</div>
+<div class="clearfix"></div>
+	<footer>
+		<div class="row dipnot">
+			<div class="col-lg-3">
+				<div class=" dipFooter">
+					<b>Azərbaycan Respublikasının Dövlət Statistika Komitəsi</b><br>
+					<b>Ünvan:</b> AZ 1136 Azərbaycan Respublikası, Bakı, İnşaatçılar prospekti, 81
+				</div>
+			</div>
+			<div class="col-lg-2">
+				<div class=" dipFooter">
+					<b>Tel:</b> <!--(+994 12) 538 87 83 --> (+994 12) 377 10 70<br>
+					<b>Faks:</b> (+994 12) 538 24 42<br>
+					<b>E-poçt:</b> info@stat.gov.az
+				</div>
+			</div>
+			<div class="col-lg-2">
+				<div class=" dipFooter">
+					<b>Qaynar xətt:</b> <br>
+					(+994 12) 377 10 70,&nbsp; 33-00 <br>
+					<b>Mətbuat xidməti:</b> <br>
+					<!--(+994 12) 538 64 98	 -->(+994 12) 377 10 70,&nbsp; 22-66<br>
+				</div>
+			</div>
+			<div class="col-lg-3">
+				<div class=" dipFooter">
+					<b>Vətəndaşların müraciətləri ilə bağlı əlaqə:</b><br>
+					(+994 12) 377 10 70,&nbsp; 22-38
+				</div>
+			</div>
+			<div class="col-lg-2">
+				<div class=" dipFooter">
+					Saytdakı məlumatlardan istifadə edərkən <br><b>istinad etmək zəruridir..!</b>
+				</div>
+			</div>
+		</div>
+		<div class="row dipnot" style="margin-top:10px; margin-left:50px;">
+			<div class="pull-left" style="padding: 0 15px;">
+				<!-- Openstat -->
+				<!--<span id="openstat2292055" style="display:none"></span>
+				<script type="text/javascript">
+					var openstat = {counter: 2292055, image: 5083, color: "458efc", next: openstat};
+					(function (d, t, p) {
+						var j = d.createElement(t);
+						j.async = true;
+						j.type = "text/javascript";
+						j.src = ("https:" == p ? "https:" : "http:") + "//openstat.net/cnt.js";
+						var s = d.getElementsByTagName(t)[0];
+						s.parentNode.insertBefore(j, s);
+					})
+						(document, "script", document.location.protocol);
+				</script>-->
+				<!--/Openstat-->
+
+				<!-- Google tag (gtag.js) -->
+				<script async src="https://www.googletagmanager.com/gtag/js?id=G-03SRXQQE2G"></script>
+				<script>
+					window.dataLayer = window.dataLayer || [];
+					function gtag(){dataLayer.push(arguments);}
+					gtag('js', new Date());
+					gtag('config', 'G-03SRXQQE2G');
+				</script>
+				<!-- /Google tag (gtag.js) -->
+
+				<!--Yandex.Metrika informer -->
+				<a href="https://metrika.yandex.com.tr/stat/?id=51771476&amp;from=informer" target="_blank" rel="nofollow">
+					<img src="https://metrika-informer.com/informer/51771476/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;"
+						 alt="Yandex.Metrica" title="Yandex.Metrica: Bugünün məlumatları (baxış, ziyarətlər ve ziyarətçilər)"
+						 class="ym-advanced-informer" data-cid="51771476" data-lang="tr" /> </a>
+				<!-- /Yandex.Metrika informer -->
+				<!-- Yandex.Metrika counter -->
+				<script type="text/javascript" >
+					(function (m, e, t, r, i, k, a) {
+						m[i] = m[i] || function () {(m[i].a = m[i].a || []).push(arguments)};
+						m[i].l = 1 * new Date();k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+					})
+					(window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym");
+					ym(51771476, "init", {id: 51771476, clickmap: true, trackLinks: true, accurateTrackBounce: true, webvisor: true, trackHash: true});
+				</script>
+				<noscript><div><img src="https://mc.yandex.ru/watch/51771476" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+				<!-- /Yandex.Metrika counter -->
+				<span style="margin-left:7px">İstifadə sayğacı</span>
+
+			</div>
+
+			<!--LiveInternet counter  - https://www.azstat.org/- üçün-->
+			<!--<div class="pull-left" style="padding: 0 15px;">
+					<script type="text/javascript">
+						document.write("<a href='https://www.liveinternet.ru/stat/stat.gov.az/index.html' " + "target=_blank><img src='//counter.yadro.ru/hit?t54.6;r" +
+						escape(document.referrer) + ((typeof(screen)=="undefined") ? "" : ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth?
+						screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) + ";h" + escape(document.title.substring(0,150)) + ";" + Math.random() +
+						"' alt='' title='LiveInternet: показано число просмотров и посетителей за 24 часа' "+"border='0' width='88' height='31'><\/a>")
+					</script>
+				</div>-->
+			<!--/LiveInternet-->
+
+			<!--24log.ru  - https://www.azstat.org/- üçün-->
+			<!--<div class="pull-right" style="padding: 0 15px;">
+				<table cellpadding="0" cellspacing="0" border="0" width="88" height="31" style="line-height:0;width:88px;">
+					<tr style="height:10px;">
+						<td style="padding:0;width:38px;height:10px;"><a href="http://www.24log.ru/stat/stat.php?project_id=271648" target="_blank"><img src="http://counter.24log.ru/buttons/24/bg24-1_1.gif" width="38" height="10" title="istifadə sayğacı" alt="istifadə sayğacı" border="0" style="margin:0;padding:0;" /></a></td>
+						<td style="padding:0;width:50px;height:10px;"><a href="http://www.24log.ru/stat/stat.php?project_id=271648" target="_blank"><img src="http://counter.24log.ru/buttons/24/bg24-1_3.gif" width="50" height="10" title="istifadə sayğacı" alt="istifadə sayğacı" border="0" style="margin:0;padding:0;" /></a></td>
+					</tr>
+					<tr style="height:21px;">
+						<td style="padding:0;width:38px;height:21px;"><a href="http://www.24log.ru/stat/stat.php?project_id=271648" target="_blank"><img src="http://counter.24log.ru/buttons/24/bg24-1_2.gif" width="38" height="21" title="istifadə sayğacı" alt="istifadə sayğacı" border="0" style="margin:0;padding:0;" /></a></td>
+						<td style="padding:0px;width:50px;height:21px;">
+							<script type='text/javascript' language='javascript'>
+							/*	document.write('<a href="http://www.24log.ru/rating/rating.php?c=6" target="_blank">' +
+									'<img border="0" width="50" height="21" src="http://counter.24log.ru/counter?id=271648&t=24&st=1&r=' + escape(document.referrer) + '&u=' + escape(document.URL) + '&s=' +
+									((typeof (screen) == "undefined") ? "" : screen.width + "x" + screen.height + "x" + (screen.colorDepth ? screen.colorDepth : screen.pixelDepth)) + '&rnd=' + Math.random() +
+									'" alt="Reytinq : İnternet" title="Cəmi və bugün üçün baxışların sayı" style="margin:0;padding:0;" /></a>'
+									);*/
+							</script>
+						</td>
+					</tr>
+				</table>
+			</div>-->
+			<!--/24log.ru-->
+
+		</div>
+		<span style="display:block; margin-top:15px">© 2002-2026. Saytın idarə olunması Dövlət Statistika Komitəsinin İnformasiya texnologiyaları şöbəsi tərəfindən həyata keçirilir.</span>
+	</footer>
+
+	<!--<a class="fixed-icon btn " href="https://stat.gov.az/special_version/" class="logo" alt="Müyəssərlik menyusu" title="Müyəssərlik menyusu"-->
+	<a class="fixed-icon btn " href="//www.stat.gov.az/special_version/" class="logo" alt="Müyəssərlik menyusu" title="Müyəssərlik menyusu"
+		data-toggle="tooltip" data-placement="top"> <img src="//www.stat.gov.az/images/muyesserlik_1.png"> </a>
+	<a href="#" class="scrollup" data-toggle="tooltip" data-placement="top" title="yuxarı"><i class="fa fa-arrow-up fa-2x"></i></a>
+
+	  <div id="myDiv"></div>
+<!--Start whatsap app Script-->
+	<script type="text/javascript">
+	  $(function () {
+	    $('#myDiv').floatingWhatsApp({
+	      phone: '+994503771070',
+	      showPopup: 'True' ,
+	      popupMessage: '<div>Canlı əlaqə vasitəsilə müraciətlərin cavablandırılması həftənin iş günləri saat 09:00-dan 18:00-dək həyata keçirilir.  <br><br> Zəhmət olmasa, ad və soyadınızı, sonra isə müraciətinizi daxil edin.</div>' ,
+	      headerTilte:  "Canlı əlaqə",
+	      message: "",
+	      position: 'right',
+		  size: '48px'
+	    });
+	  });
+	</script>
+
+
+<!--Start of Tawk.to Script-->
+  <!--<script type="text/javascript">
+	var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+	(function(){
+	var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+	s1.async=true;
+	s1.src='https://embed.tawk.to/626a6261b0d10b6f3e6fbf95/1g1np0k0c';
+	s1.charset='UTF-8';
+	s1.setAttribute('crossorigin','*');
+	s0.parentNode.insertBefore(s1,s0);
+	})();
+  </script>-->
+<!--End of Tawk.to Script-->
+
+
+<!-- Messenger Chat Plugin Code -->
+    <!-- <div id="fb-root"></div> -->
+    <!-- Facebook Chat Plugin code -->
+    <!-- Your Chat Plugin code -->
+   <!-- <div id="fb-customer-chat" class="fb-customerchat"> </div> -->
+
+  <script>
+   /*
+      var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute("page_id", "897483377258085");
+      chatbox.setAttribute("attribution", "biz_inbox");
+	  */
+  </script>
+
+    <!-- Your SDK code -->
+  <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml    : true,
+          version  : 'v13.0'
+        });
+      };
+
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+  </script>
+
+</body>
+</html>

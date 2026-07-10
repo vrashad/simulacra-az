@@ -1,0 +1,42 @@
+{
+  "total": 1000,
+  "age_mean": 45.1,
+  "districts": {
+    "Xəzər": 9.7,
+    "Nəsimi": 10.5,
+    "Sabunçu": 12.6,
+    "Nərimanov": 7.8,
+    "Pirallahı": 0.8,
+    "Yasamal": 6.8,
+    "Xətai": 13.1,
+    "Binəqədi": 13.5,
+    "Nizami": 7.3,
+    "Səbail": 3.6,
+    "Qaradağ": 5.5,
+    "Suraxanı": 8.8
+  },
+  "gender": {
+    "male": 49.6,
+    "female": 50.4
+  },
+  "income_quintile": {
+    "4": 21.2,
+    "2": 20.6,
+    "1": 18.9,
+    "5": 15.6,
+    "3": 23.7
+  },
+  "marital": {
+    "subay": 17.7,
+    "boşanmış": 9.7,
+    "dul": 11.4,
+    "evli": 61.2
+  },
+  "language": {
+    "az": 54.3,
+    "az_ru": 26.5,
+    "ru": 15.4,
+    "az_en": 3.8
+  },
+  "internet_pct": 81.6
+}

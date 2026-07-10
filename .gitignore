@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+log/
+.venv/
+# experiment DBs are committed selectively; new local runs stay out by default
+results/*
+!results/demo_ad_gemini-3.5-flash.db
+!results/demo_pension_gemini-3.5-flash.db
+!results/demo_negative_gemini-3.5-flash.db
+
+# GitHub 100MB limit - these yearbooks stay local (source: stat.gov.az)
+data/azerbaijan_stats/yearbook_pdf/regions_of_azerbaijan_2025.pdf
+data/azerbaijan_stats/yearbook_pdf/women_and_men_2025.pdf
